@@ -1,6 +1,6 @@
 # Level 1 - The Cake is Not a Lie
 
-## Problem Statement
+### Problem Statement
 
 Commander Lambda has had an incredibly successful week: she completed the first test run of her LAMBCHOP doomsday device, she captured six key members of the Bunny Rebellion, and she beat her personal high score in Tetris. To celebrate, she's ordered cake for everyone - even the lowliest of minions! But competition among minions is fierce, and if you don't cut exactly equal slices of cake for everyone, you'll get in big trouble. 
 
@@ -10,7 +10,7 @@ To help you best cut the cake, you have turned the sequence of colors of the M&M
 
 Write a function called solution(s) that, given a non-empty string less than 200 characters in length describing the sequence of M&Ms, returns the maximum number of equal parts that can be cut from the cake without leaving any leftovers.
 
-## Test Cases
+### Test Cases
 
 Input: Solution.solution("abcabcabcabc") <br/>
 Output: 4
@@ -18,4 +18,13 @@ Output: 4
 Input: Solution.solution("abccbaabccba") <br/>
 Output: 2
 
-## Constraints
+### Constraints
+Your code will be compiled using standard Java 8. All tests will be run by calling the solution() method inside the Solution class
+
+Execution time is limited.
+
+Wildcard imports and some specific classes are restricted (e.g. java.lang.ClassLoader). You will receive an error when you verify your solution if you have used a blacklisted class.
+
+Third-party libraries, input/output operations, spawning threads or processes and changes to the execution environment are not allowed.
+
+Your solution must be under 32000 characters in length including new lines and and other non-printing characters.
