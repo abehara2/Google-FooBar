@@ -12,18 +12,10 @@ Write a function called solution(s) that, given a non-empty string less than 200
 
 ## Test Cases
 
-Input:
-solution.solution("abccbaabccba")
-Output:
-    2
+Input: Solution.solution("abcabcabcabc")
+Output: 4
 
--- Java cases --
-Input:
-Solution.solution("abcabcabcabc")
-Output:
-    4
+Input: Solution.solution("abccbaabccba")
+Output: 2
 
-Input:
-Solution.solution("abccbaabccba")
-Output:
-    2
+## Constraints
