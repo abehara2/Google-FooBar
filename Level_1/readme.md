@@ -12,10 +12,10 @@ Write a function called solution(s) that, given a non-empty string less than 200
 
 ## Test Cases
 
-Input: Solution.solution("abcabcabcabc")
+Input: Solution.solution("abcabcabcabc") <br/>
 Output: 4
 
-Input: Solution.solution("abccbaabccba")
+Input: Solution.solution("abccbaabccba") <br/>
 Output: 2
 
 ## Constraints
