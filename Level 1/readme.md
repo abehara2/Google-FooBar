@@ -1,4 +1,6 @@
-# Level 1 - The Cake is Not a Lie
+# Level 1
+
+## The Cake is Not a Lie
 
 ### Problem Statement
 
