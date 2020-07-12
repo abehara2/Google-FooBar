@@ -2,7 +2,6 @@
 I infiltrated Commander Lambda's evil organization and will do my best to subvert her plans to use the LAMBCHOP doomsday device to destroy Bunny Planet. Join me on this challenge Commander Google sent me on!
 
 ### Reflection
-<br/>
 ** Level 1 **
 Level 1 was one programming question with a time limit of 48 hours to complete. This level proved to be not very challenging as problems seemed as difficult as Leetcode Easy.
   
