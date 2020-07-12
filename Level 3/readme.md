@@ -69,7 +69,7 @@ Write a function solution(l) that takes a list of positive integers l and counts
 
 For example, [1, 2, 3, 4, 5, 6] has the triples: [1, 2, 4], [1, 2, 6], [1, 3, 6], making the answer 3 total.
 
-# Test Cases
+### Test Cases
 Input: Solution.solution([1, 1, 1]) <br />
 Output: 1
 
