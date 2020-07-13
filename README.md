@@ -11,5 +11,5 @@ Level 2 was two programming questions, each with a time limit of 72 hours. This 
 ### Level 3 <br/>
 Level 3 was three programming questions each with a time limit of 96 hours. This level saw a sharp jump in difficulty. The first and third programming questions seemed to be Leetcode Medium questions with a strong emphasis on run time and optimization. The second part of level 3 took the most time to complete as I had to provide multiple different implementations before passing all the test cases. I started with constructing a binary tree using BFS to keep track of "generations", but this proved to be too computationally expensive. After reverse engineering the problem and going from "leaf" to "root", I realized there was a much simpler mathematical implementation. After implementing this code in Java, I did not pass the test cases as integers were too big, but after translation to python code, I was able to pass all the test cases. Upon completion of this level, I was asked to send my solutions to a Google Recruiter regarding career opportunities.
 
-### Stay tuned for updates!
+##### Stay tuned for updates!
 
