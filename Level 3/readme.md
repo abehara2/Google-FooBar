@@ -22,7 +22,7 @@ All worker IDs (including the first worker) are between 0 and 2000000000 inclusi
 
 With this information, write a function solution(start, length) that will cover for the missing security checkpoint by outputting the same checksum the guards would normally submit before lunch. You have just enough time to find out the ID of the first worker to be checked (start) and the length of the line (length) before the automatic review occurs, so your program must generate the proper checksum with just those two values.
 
-### Test Casese
+### Test Cases
 Input: Solution.solution(0, 3)<br/>
 Output: 2
 
